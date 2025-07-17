@@ -28,5 +28,11 @@
         Console.WriteLine(@"                              \\|//            ::::: ");
         Console.WriteLine(@"                           .,///|\\\,.         `:::' ");
         Console.WriteLine(@"                        .///////|\\\\\\\.             ");
+
+
+        string nombre = Console.ReadLine();
+
+
+
             }
         }
